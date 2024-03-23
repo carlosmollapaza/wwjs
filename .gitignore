@@ -1,0 +1,12 @@
+## Intellij Idea ##
+.idea
+*.iml
+target
+
+## Angular ##
+.wwebjs_auth
+.wwebjs_cache
+node_modules
+Carlos.zip
+## Github ##
+README.md
